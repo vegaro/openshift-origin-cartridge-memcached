@@ -10,6 +10,7 @@ Cartridge-Version: 0.2.0
 Cartridge-Vendor: brianredbeard
 License: ASL 2.0
 Vendor: Memcached
+Source-Url: https://github.com/vegaro/openshift-origin-cartridge-memcached.git
 Categories:
   - service
   - database
